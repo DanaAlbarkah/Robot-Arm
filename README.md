@@ -23,5 +23,10 @@ Here we gonna need four terminals :
    cd catkin_ws/src/arduino_robot_arm/robot_arm_pkg/scripts  
    sudo chmod +x joint_states_to_gazebo.py  
 4- in the last terminal write this command to control bothe arms in Rvize and gazebo at once:  
-    rosrun robot_arm_pkg check_motors_gazebo.launch
+    rosrun robot_arm_pkg check_motors_gazebo.launch  
+    
+
+https://user-images.githubusercontent.com/85397914/123516909-36128d00-d6a7-11eb-90ae-5ca08491241c.mp4
+
+
 
